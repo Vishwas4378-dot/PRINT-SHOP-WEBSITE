@@ -1,0 +1,26 @@
+{
+  "name": "print-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cloudinary": "^1.35.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongodb": "^5.1.0",
+    "mongoose": "^7.0.1",
+    "nodemon": "^2.0.21",
+    "socket.io": "^4.6.1",
+    "stripe": "^11.14.0",
+    "validator": "^13.9.0"
+  }
+}

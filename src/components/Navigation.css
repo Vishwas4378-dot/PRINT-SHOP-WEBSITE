@@ -1,0 +1,51 @@
+.logout-btn{
+    margin:0 auto;
+    display: block !important;
+}
+
+.logo{
+    width:50px;
+}
+
+#cartcount{
+    font-size: 10px;
+    background-color: red;
+    color: white;
+    padding: 2px 4px;
+    vertical-align: top;
+    margin-left: -8px;
+    border-radius: 50px;
+    margin-top: -5px;
+}
+
+.badge{
+    padding-left: 9px;
+    padding-right: 9px;
+    border-radius: 9px;
+}
+
+.fa-shopping-cart{
+    font-size:20px;
+}
+
+.notifications-container {
+    padding: 20px;
+    max-height: 200px;
+    overflow-y: scroll;
+    border: 1px solid gray;
+    background-color: white;
+    width: 200px;
+    z-index: 99;
+}
+.notification-read {
+    background-color: lightblue;
+}
+
+.notification-unread {
+    background-color: lightcoral;
+}
+
+
+.about_link :hover{
+    color: red;
+}

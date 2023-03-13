@@ -1,0 +1,19 @@
+.login__image--container{
+    background-image: url('G:/print-shop/src/components/login.jpg');
+    height: 60vh;
+    background-size: cover;
+}
+
+.login__form--container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 70vh;
+    justify-content: center;
+}
+
+@media screen and (max-width:756px){
+    .login__image--container{
+        display: none;
+    }
+}
