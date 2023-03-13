@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/PRINT-SHOP-WEBSITE/static/css/main.ac58bb36.css",
+    "main.js": "/PRINT-SHOP-WEBSITE/static/js/main.7232b5ea.js",
+    "static/js/787.bd3e4f86.chunk.js": "/PRINT-SHOP-WEBSITE/static/js/787.bd3e4f86.chunk.js",
+    "static/media/login.jpg": "/PRINT-SHOP-WEBSITE/static/media/login.ed00052e76f6fa68abfd.jpg",
+    "static/media/saleBanner.jpg": "/PRINT-SHOP-WEBSITE/static/media/saleBanner.ca9b77a8ce7223d7698d.jpg",
+    "static/media/About.jpg": "/PRINT-SHOP-WEBSITE/static/media/About.ef498eb7803e1719cc68.jpg",
+    "static/media/HOMEMAIN2.jpg": "/PRINT-SHOP-WEBSITE/static/media/HOMEMAIN2.c9f69e605d0445b52ecf.jpg",
+    "static/media/signup.jpg": "/PRINT-SHOP-WEBSITE/static/media/signup.4e61afe5dfd6ef033443.jpg",
+    "static/media/CreateProductsPage.jpg": "/PRINT-SHOP-WEBSITE/static/media/CreateProductsPage.088bc3b84f7b4079ec4c.jpg",
+    "static/media/HOME3.jpg": "/PRINT-SHOP-WEBSITE/static/media/HOME3.27df5c808758457221c9.jpg",
+    "static/media/category6.jpg": "/PRINT-SHOP-WEBSITE/static/media/category6.7c3e2a0e4031f53cd96d.jpg",
+    "static/media/categoryVisiting6.jpg": "/PRINT-SHOP-WEBSITE/static/media/categoryVisiting6.2bcb1123f0af45e5545d.jpg",
+    "index.html": "/PRINT-SHOP-WEBSITE/index.html",
+    "main.ac58bb36.css.map": "/PRINT-SHOP-WEBSITE/static/css/main.ac58bb36.css.map",
+    "main.7232b5ea.js.map": "/PRINT-SHOP-WEBSITE/static/js/main.7232b5ea.js.map",
+    "787.bd3e4f86.chunk.js.map": "/PRINT-SHOP-WEBSITE/static/js/787.bd3e4f86.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac58bb36.css",
+    "static/js/main.7232b5ea.js"
+  ]
+}
